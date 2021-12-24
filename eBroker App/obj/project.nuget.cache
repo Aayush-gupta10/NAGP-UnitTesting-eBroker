@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuSm+XmCykcFmZkecOaB0yB3yuvzimfqo741GQvgnl681lSp6dRHyq6VhMfImKEMRjC3SEnwVT4EBxwjjQc+2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aayushgupta01\\source\\repos\\eBroker App\\eBroker App\\eBroker App_ControllerLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.12\\microsoft.entityframeworkcore.5.0.12.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.12\\microsoft.entityframeworkcore.abstractions.5.0.12.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.12\\microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.12\\microsoft.entityframeworkcore.inmemory.5.0.12.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\aayushgupta01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

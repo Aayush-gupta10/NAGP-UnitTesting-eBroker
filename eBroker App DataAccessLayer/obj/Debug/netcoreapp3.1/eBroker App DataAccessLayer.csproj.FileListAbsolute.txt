@@ -1,0 +1,9 @@
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.AssemblyInfo.cs
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\bin\Debug\netcoreapp3.1\eBroker App DataAccessLayer.deps.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\bin\Debug\netcoreapp3.1\eBroker App DataAccessLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\bin\Debug\netcoreapp3.1\eBroker App DataAccessLayer.pdb
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App DataAccessLayer\obj\Debug\netcoreapp3.1\eBroker App DataAccessLayer.pdb

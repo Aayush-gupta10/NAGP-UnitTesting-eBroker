@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker App_ControllerLayer", "eBroker App\eBroker App_ControllerLayer.csproj", "{EE40DFE5-8570-442C-8078-A4A21B4584BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker App BussinessLayer", "eBroker App BussinessLayer\eBroker App BussinessLayer.csproj", "{A66BD048-1535-4957-9359-857E84BBA136}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker App DataAccessLayer", "eBroker App DataAccessLayer\eBroker App DataAccessLayer.csproj", "{B2B2BE64-0AD3-4CE6-98EA-B258A74D163C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker App ControllerLayer Unit Test", "eBroker Unit Test\eBroker App ControllerLayer Unit Test.csproj", "{5815009B-B575-43C8-8422-8721CCEA5F7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker_BussinessLayer_UnitTest", "eBroker_BussinessLayer_UnitTest\eBroker_BussinessLayer_UnitTest.csproj", "{307F13C5-92C4-4EF8-9962-0810FC933397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBroker_DataAccessLayer_UnitTest", "eBroker_DataAccessLayer_UnitTest\eBroker_DataAccessLayer_UnitTest.csproj", "{F3AEFA89-AE9F-4B15-A20A-5C66B799F7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE40DFE5-8570-442C-8078-A4A21B4584BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE40DFE5-8570-442C-8078-A4A21B4584BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE40DFE5-8570-442C-8078-A4A21B4584BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE40DFE5-8570-442C-8078-A4A21B4584BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66BD048-1535-4957-9359-857E84BBA136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66BD048-1535-4957-9359-857E84BBA136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66BD048-1535-4957-9359-857E84BBA136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66BD048-1535-4957-9359-857E84BBA136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B2BE64-0AD3-4CE6-98EA-B258A74D163C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B2BE64-0AD3-4CE6-98EA-B258A74D163C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B2BE64-0AD3-4CE6-98EA-B258A74D163C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B2BE64-0AD3-4CE6-98EA-B258A74D163C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5815009B-B575-43C8-8422-8721CCEA5F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5815009B-B575-43C8-8422-8721CCEA5F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5815009B-B575-43C8-8422-8721CCEA5F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5815009B-B575-43C8-8422-8721CCEA5F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307F13C5-92C4-4EF8-9962-0810FC933397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307F13C5-92C4-4EF8-9962-0810FC933397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307F13C5-92C4-4EF8-9962-0810FC933397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307F13C5-92C4-4EF8-9962-0810FC933397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AEFA89-AE9F-4B15-A20A-5C66B799F7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AEFA89-AE9F-4B15-A20A-5C66B799F7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AEFA89-AE9F-4B15-A20A-5C66B799F7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AEFA89-AE9F-4B15-A20A-5C66B799F7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8E2748-409C-46BD-8ABD-089C608412F3}
+	EndGlobalSection
+EndGlobal

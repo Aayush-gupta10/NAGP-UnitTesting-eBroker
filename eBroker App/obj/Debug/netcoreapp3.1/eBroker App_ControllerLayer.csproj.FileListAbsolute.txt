@@ -1,0 +1,39 @@
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.exe
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.deps.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.runtimeconfig.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.runtimeconfig.dev.json
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App_ControllerLayer.pdb
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App DataAccessLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App DataAccessLayer.pdb
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.csprojAssemblyReference.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.AssemblyInfoInputs.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.AssemblyInfo.cs
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.csproj.CoreCompileInputs.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\staticwebassets\eBroker App_ControllerLayer.StaticWebAssets.Manifest.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\staticwebassets\eBroker App_ControllerLayer.StaticWebAssets.xml
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\scopedcss\bundle\eBroker App_ControllerLayer.styles.css
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.RazorTargetAssemblyInfo.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.csproj.CopyComplete
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.pdb
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\obj\Debug\netcoreapp3.1\eBroker App_ControllerLayer.genruntimeconfig.cache
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App BussinessLayer.dll
+C:\Users\aayushgupta01\source\repos\eBroker App\eBroker App\bin\Debug\netcoreapp3.1\eBroker App BussinessLayer.pdb
